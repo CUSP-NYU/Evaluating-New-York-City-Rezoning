@@ -6,4 +6,12 @@
 The project’s theoretical value is to understand how various land uses (e.g., residential, commercial) complement and compete with one another. The social value reflects the rezoned community’s needs.  Data was collected based on interviews with residential and commercial real estate developers who explained what drives the economics of developing an urban parcel, and includes demographic, land use, and neighborhood quality data. The data was loaded into a supervised machine learning model in which the dependent variable was land use. In addition, a second model was developed to predict future built floor area ratio (FAR) by land use. We developed a visualization tool which could be used to understand current trends and anticipate future needs of neighborhoods.
 
 ### Data
-![Test Image 4](https://github.com/jljuli/nyc-rezoning/blob/main/Img/Data.JPG)
+![Data](https://github.com/jljuli/nyc-rezoning/blob/main/Img/Data.JPG)
+
+### Methodology
+
+1. Regression
+2. Classification
+
+### Links:
+https://github.com/jrromero0115/NYC-Rezoning-evaluation
